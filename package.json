@@ -1,0 +1,8 @@
+{
+  "name": "parser-tagesschau",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/NewsPilot/parser-tagesschau",
+  "author": "jld3103",
+  "license": "GPL-3.0"
+}
